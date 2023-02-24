@@ -1,0 +1,9 @@
+Customer:	Tanvir
+Item name:	Chicken Burger
+Regular Price:	190.0
+Discount:	10.0%
+Quantity:	4
+Discount tk:	76.0
+Taka to Pay:	684.0
+
+Thanks for ordering.
